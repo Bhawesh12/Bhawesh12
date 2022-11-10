@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bhawesh Joshi.
-- 👀 I’m interested in Coding and data science.
-- 🌱 I’m currently learning Coding.
-- 💞️ I’m looking to learn a good amount of coding and Data science related knowledge.
+- 👀 I am a Technical Recruiter.
+- 🌱 I am over here to hire developers.
 - 📫 You can reach me at my Phone Number- 917011484616
 
 <!---
