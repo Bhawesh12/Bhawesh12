@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Bhawesh Joshi.
-- 👀 I am a Technical Recruiter.
-- 🌱 I am over here to hire developers.
-- 📫 You can reach me at my Phone Number- 917011484616
+- 👀 I am a Python Programmer.
 
 <!---
 Bhawesh12/Bhawesh12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
