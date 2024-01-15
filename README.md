@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhawesh Joshi.
-- 👀 I am a Python Programmer.
+- 👀 I am a Java Programmer.
 
 <!---
 Bhawesh12/Bhawesh12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
